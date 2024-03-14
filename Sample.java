@@ -23,6 +23,15 @@ class Sample
  }
    public static void main(String args[]){
      System.out.println("Github");
+	   Sample ob=new Sample();
+	   int a=10;
+	   int b=5;
+	   ob.add(a,b);
+	   ob.sub(a,b);
+	   ob.Mul(a,b);
+	   ob.Div(a,b);
+	   
+     //Create the object and call the method to perform the operation.
      
 	
  }	 
