@@ -23,6 +23,7 @@ class Sample
  }
    public static void main(String args[]){
      System.out.println("Github");
+     //Create the object and call the method to perform the operation.
      
 	
  }	 
