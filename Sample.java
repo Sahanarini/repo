@@ -1,9 +1,11 @@
 class Sample
 {
 
+
   public void Div(int a,int b){
 	int result = a/b;
 	System.out.println(result);
+
   }
   
   public void Mul(int a,int b){
